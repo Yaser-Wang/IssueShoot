@@ -8,7 +8,7 @@
 
 如果这些正是你所期待的，那么IssueShoot绝对是你的不二之选 —— 这里是腾讯首个开发者共建平台，更是开发者共建共享的优质平台。
 
-![alt text](image.png)
+![alt text](image/image.png)
 
 ## 任务大厅
 
