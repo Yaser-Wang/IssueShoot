@@ -16,39 +16,39 @@
 
   issue 完成奖励： 
 
-  | 状态   | issue 名称                                                 | 技术领域   | 难度 | 预估人天 | 认领人     |
-  | :------: | :----------------------------------------------------------: | :----------: | :----: | :--------: | :------------: |
-  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579)  | OS/虚拟机  | 高   | 10       | - |
-  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579)  | OS/虚拟机  | 高   | 10       | - |
-  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579)  | OS/虚拟机  | 高   | 10       | - |
-  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579)  | OS/虚拟机  | 高   | 10       | - |
-  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579)  | OS/虚拟机  | 高   | 10       | - |
-  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579)  | OS/虚拟机  | 高   | 10       | - |
+  | 状态 | issue 名称 | 技术领域 | 难度 | 预估人天 | 期望完成时间 | 认领人 |
+  | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579) | OS/虚拟机 | 高 | 10 | 2025-09-01 | - |
+  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579) | OS/虚拟机 | 高 | 10 | 2025-09-01 | - |
+  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579) | OS/虚拟机 | 高 | 10 | 2025-09-01 | - |
+  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579) | OS/虚拟机 | 高 | 10 | 2025-09-01 | - |
+  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579) | OS/虚拟机 | 高 | 10 | 2025-09-01 | - |
+  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579) | OS/虚拟机 | 高 | 10 | 2025-09-01 | - | 
 
 > ### TDesgin
 
   issue 完成奖励： 
 
-  | 状态   | issue 名称                                                 | 技术领域   | 难度 | 预估人天 | 认领人     |
-  | :------: | :----------------------------------------------------------: | :----------: | :----: | :--------: | :------------: |
-  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579)  | OS/虚拟机  | 高   | 10       | - |
-  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579)  | OS/虚拟机  | 高   | 10       | - |
-  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579)  | OS/虚拟机  | 高   | 10       | - |
-  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579)  | OS/虚拟机  | 高   | 10       | - |
-  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579)  | OS/虚拟机  | 高   | 10       | - |
-  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579)  | OS/虚拟机  | 高   | 10       | - |
+  | 状态 | issue 名称 | 技术领域 | 难度 | 预估人天 | 期望完成时间 | 认领人 |
+  | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579) | OS/虚拟机 | 高 | 10 | 2025-09-01 | - |
+  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579) | OS/虚拟机 | 高 | 10 | 2025-09-01 | - |
+  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579) | OS/虚拟机 | 高 | 10 | 2025-09-01 | - |
+  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579) | OS/虚拟机 | 高 | 10 | 2025-09-01 | - |
+  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579) | OS/虚拟机 | 高 | 10 | 2025-09-01 | - |
+  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579) | OS/虚拟机 | 高 | 10 | 2025-09-01 | - | 
 
 > ### tRPC
 
   issue 完成奖励： 
 
-  | 状态   | issue 名称                                                 | 技术领域   | 难度 | 预估人天 | 认领人     |
-  | :------: | :----------------------------------------------------------: | :----------: | :----: | :--------: | :------------: |
-  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579)  | OS/虚拟机  | 高   | 10       | - |
-  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579)  | OS/虚拟机  | 高   | 10       | - |
-  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579)  | OS/虚拟机  | 高   | 10       | - |
-  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579)  | OS/虚拟机  | 高   | 10       | - |
-  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579)  | OS/虚拟机  | 高   | 10       | - |
-  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579)  | OS/虚拟机  | 高   | 10       | - |
+  | 状态 | issue 名称 | 技术领域 | 难度 | 预估人天 | 期望完成时间 | 认领人 |
+  | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579) | OS/虚拟机 | 高 | 10 | 2025-09-01 | - |
+  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579) | OS/虚拟机 | 高 | 10 | 2025-09-01 | - |
+  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579) | OS/虚拟机 | 高 | 10 | 2025-09-01 | - |
+  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579) | OS/虚拟机 | 高 | 10 | 2025-09-01 | - |
+  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579) | OS/虚拟机 | 高 | 10 | 2025-09-01 | - |
+  | 招募中 | [TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java](https://github.com/Tencent/tdesign-vue/issues/3579) | OS/虚拟机 | 高 | 10 | 2025-09-01 | - | 
 
 
