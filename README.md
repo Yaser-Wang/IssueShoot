@@ -12,7 +12,7 @@
 
 ## 任务大厅
 
-<font size="1">
+<span style="font-size:10px;">
 
 | 状态   | 项目      | issue 名称                                                 | 技术领域   | 难度 | 预估人天 | 完成激励     | issue地址 |
 | :------: | :---------: | :----------------------------------------------------------: | :----------: | :----: | :--------: | :------------: | :---------: |
@@ -23,5 +23,4 @@
 | 招募中 | TDesign   | TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java | OS/虚拟机  | 高   | 10       | S14 赛季礼品 | [前往认领](https://github.com/Tencent/tdesign-vue/issues/3579)  |
 | 进行中 | tRPC      | TencentOS Server 4 使用云观 Java 语言生态 SDK 部署验证 Java | OS/虚拟机  | 高   | 10       | S14 赛季礼品 | [前往认领](https://github.com/Tencent/tdesign-vue/issues/3579)  |
 
-</font>
-
+</span>
