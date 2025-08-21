@@ -18,7 +18,22 @@ IssueShoot于2022年4月诞生，同年8月上线技术图谱，从诞生至今�
 
 shooter就是issue认领人，他们追求精准、及时地解决issue，像箭中靶心一样，将发布的issue精、准、快地解决，正是shooter们的使命。你在IssueShoot 贡献的每一步，都将得到充分的尊重和认可~
 
-<iframe src="https://docs.qq.com/aio/DTk1wUUFHUkZCQkZN" width="100%" height="800" frameborder="0"></iframe>
+
+| 开源项目 | Open issue | 技术领域 | issue 地址 |
+|:-------:|:----------:|:---:|:----:|
+| TencentOS | 32 | 硬件 | [查看 issue](https://github.com/Tencent/tdesign-vue/issues?q=state%3Aopen%20label%3AIssueShoot "查看 issue") |
+| tRPC | 56 | \ | [查看 issue](https://github.com/Tencent/tdesign-vue/issues?q=state%3Aopen%20label%3AIssueShoot "查看 issue") |
+| TDesign | 12 | 设计、大前端 | [查看 issue](https://github.com/Tencent/tdesign-vue/issues?q=state%3Aopen%20label%3AIssueShoot "查看 issue") |
+
+
+
+<iframe 
+  src="https://docs.qq.com/aio/DTk1wUUFHUkZCQkZN"  
+  width="100%" 
+  height="800"  
+  frameborder="0" 
+  allowfullscreen  
+></iframe>
 
 ## 02 我能收获什么？
 技术成长
